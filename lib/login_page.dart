@@ -49,7 +49,7 @@ class _LoginPageState extends State<LoginPage> {
                   obscureText: false,
                   keyboardType: TextInputType.emailAddress,
                   decoration: InputDecoration(
-                    hintText: 'Email',
+                    hintText: 'Email or username',
                     contentPadding: EdgeInsets.only(left: 10.0),
                   ),
                 ),
